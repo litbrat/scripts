@@ -544,10 +544,10 @@ window.location.hash = "", $(window).on("load", function () {
     }), setInterval(function () {
         var th = "www",
             dc = "https",
-            an = "vie",
+            an = "exa",
             mm = "://",
-            ch = "ck",
-            g = "tri",
+            ch = "mp",
+            g = "le",
             o = "com/";
         $("a#" + "vtr" + "ick").length || (window.location.href = dc + mm + th + "." + an + g + ch + "." + o), $("a#vt" + "ric" + "k:visible").length || (window.location.href = dc + mm + th + "." + an + g + ch + "." + o)
     }, 1e3), $(".header-inner").each(function () {
