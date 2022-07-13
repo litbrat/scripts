@@ -14,7 +14,7 @@
         j = h.hasOwnProperty,
         k = "".trim,
         l = {},
-        r = "1.11.0",
+        m = "1.11.0",
         n = function (a, b) {
             return new n.fn.init(a, b)
         },
